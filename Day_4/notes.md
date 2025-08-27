@@ -10,7 +10,7 @@ They check whether the condition is **True** or **False** then execute the code.
 
 ## The structure of conditionals in python
 
-if condition1:
+if condition1: 
     # runs if condition1 is True
 elif condition2:
     # runs if condition1 is False AND condition2 is True
