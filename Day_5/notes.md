@@ -1,4 +1,4 @@
-# Day 5: Loops (for, while, break, continue, else)Day 9: Loops (for, while, break, continue, else)
+# Day 5: Loops (for, while, break, continue, else)
 
 ## Loops
 A loop is a programming  structure that let's you to repeat a code multiple times untill the condition met.
