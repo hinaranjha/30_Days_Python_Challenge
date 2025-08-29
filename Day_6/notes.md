@@ -1,4 +1,4 @@
-# Day 9: Functions | Parameters, Return, Default, (*args, **kwargs)
+# Day 6: Functions | Parameters, Return, Default, (*args, **kwargs)
 
 ## Function:
 A function is a **block of resueable code** that perform a specific task.
